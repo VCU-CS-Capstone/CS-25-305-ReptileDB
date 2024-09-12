@@ -11,9 +11,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Week 1 Status Report | We've accomplished a lot | We'll accomplish even more | No problems to report! |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
+| Week 1 Status Report | Meet our team and break the ice | Successfully set up a means of communication between team members via discord and zoom | No problems to report! |
+| Week 2 Status Report | Meet our student advisor| Met with Professor Leonard and had a insightful meeting of upcoming tasks and helpful tools to try out | No problems to report! |
+| Week 3 Status Report | Meet our sponsor| Met with Professor Uetz and discussed the potential the database holds for all those who want to use the database | No problems to report! |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
