@@ -1,10 +1,10 @@
 # *CS 25-305-ReptileDB*
 
 **Students' Names:**
-Sanie Fragata
-Joshua Grove
-Nathaniel Grove
-Elyse O'Rahilly 
+* Sanie Fragata
+* Joshua Grove
+* Nathaniel Grove
+* Elyse O'Rahilly 
 
 **Mentor:**
 Dr. Joao Soares
