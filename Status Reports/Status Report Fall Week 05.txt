@@ -1,0 +1,29 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+**Mentor:**
+Dr. Joao Soares
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+   -Got stakeholder approval on Project Proposal goals and milestones
+   -Created Gantt chart and planned out sprints for the rest of the year
+   -Discussed goals and milestones with Dr. Uetz
+
+## 2) Milestones to be completed next week ##
+   -Will put the finishing touches on the Project proposal, including references, charts, and a crows foot diagram
+   -Will meet with Dr. Leonard to review and confirm projecet proposal before submission
+
+## 3) Issues, problems or concerns ##
+   -Whole team needs to familiarize selves with Docker containers
+   -Need to start coming up with creative solutions to parsing out data in the converter (particularly column 7)
+   
+
+
