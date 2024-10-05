@@ -1,0 +1,29 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+**Mentor:**
+Dr. Joao Soares
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+   -Demo'd a walkthrough of building the database from last year's converter
+   -Discussed focus topics for the next iteration of the db converter
+   -Discussed roles changing from a mechanical engineering-focus to an agile method computer science focus
+
+## 2) Milestones to be completed next week ##
+   -Meet with Dr. Uetz and create project proposal outline
+
+## 3) Issues, problems or concerns ##
+   -Need to look into fixing up the API midlayer construction
+   -Will need to scrap and rework the front end from scratch
+   -Will need to build a docker container featuring SQLite to make the converter more efficent
+
+
+
