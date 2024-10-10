@@ -1,0 +1,27 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+**Mentor:**
+Dr. Joao Soares
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+ 	-Completed and submitted project proposal
+
+## 2) Milestones to be completed next week ##
+   -Sanie and Elyse will work on setting up Docker containers
+   -Will meet with Dr. Uetz on Wednesday, 1:00pm
+
+## 3) Issues, problems or concerns ##
+   -Team needs to start thinking in terms of Agile development and not waterfall
+   - Team needs to address server concerns after setting up docker containers
+   
+
+
