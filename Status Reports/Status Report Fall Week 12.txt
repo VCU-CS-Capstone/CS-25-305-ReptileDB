@@ -1,0 +1,30 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+**Mentor:**
+Dr. Joao Soares
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+ 	-Completed and Submitted Fall Design Poster
+
+## 2) Milestones to be completed next week ##
+   -Break for thanksgiving, everyone will work on the first iteration of the converter
+   -Elyse will work on Order-Family-Genus
+   -Sanie will work on adding the Type Species Column
+   -Joshua will work on the reproduction entity
+   -Nathaniel will work on the Common Names entity
+   -Meet with Dr. Leonard after break, Dec 5th
+
+## 3) Issues, problems or concerns ##
+   -Team needs to look into frameworks for front end development
+   -Work will need to be done over the winter break to keep up with timeline
+
+

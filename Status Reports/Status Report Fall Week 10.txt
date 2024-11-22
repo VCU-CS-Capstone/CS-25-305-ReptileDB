@@ -1,0 +1,23 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+ 	-Created mermaid diagram for the converter entities and reviewed converter processes
+
+## 2) Milestones to be completed next week ##
+   -Fall Design Poster to be cleaned up (formatting, possibly add color?)
+   -Create an architecture diagram to show how each part of the stack interacts- Meeting with Dr. Leonard Thursday at 4:00pm
+
+## 3) Issues, problems or concerns ##
+   -Deciding which parts of the converter to prioritize but also realistically possible for this iteration of the code has been challenging
+
+

@@ -1,0 +1,24 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+ 	-Rough draft of Fall Design Poster
+
+## 2) Milestones to be completed next week ##
+   -Create mermaid diagram for Design Poster
+   -Wade through current version of the converter to see what normalization is of the most urgency
+   
+
+## 3) Issues, problems or concerns ##
+   -Team needs to brainstorm graphics that are appropriate for the design poster
+   -Dr. Uetz wants a graphics-centered poster, rather than text
+

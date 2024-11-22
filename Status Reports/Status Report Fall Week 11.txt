@@ -1,0 +1,24 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+ 	-Created Architecture diagram for the full stack
+
+## 2) Milestones to be completed next week ##
+   -Fall Design Poster to be completed and submitted-Elyse and Sanie
+
+## 3) Issues, problems or concerns ##
+   -The architecture diagram is still a rough draft so some pieces might change as the project develops
+   -Balancing information and interesting graphics on the design poster is proving challenging
+   -Unable to meet with Dr. Uetz this week, Elyse had a medical emergency
+
+
