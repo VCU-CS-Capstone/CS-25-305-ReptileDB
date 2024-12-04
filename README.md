@@ -17,7 +17,6 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
--   - Professor Soares - Mentor
 - Professor Leonard - VCU Computer Science - Technical Advisor
 - Professor Uetz - VCU Life Sciences - Faculty Advisor
 - Elyse O'Rahilly - Computer Science - Student Team Member
