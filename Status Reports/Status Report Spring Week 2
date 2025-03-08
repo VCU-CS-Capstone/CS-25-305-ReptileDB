@@ -1,0 +1,23 @@
+# *CS 25-305-ReptileDB*
+
+**Students' Names:**
+Sanie Fragata
+Joshua Grove
+Nathaniel Grove
+Elyse O'Rahilly
+
+**Mentor:**
+Dr. Joao Soares
+
+**Faculty Advisor:**
+Dr. John Leonard
+
+## 1) Accomplishments this week ##
+   -Succesfully containerized database in docker
+   -Working on layering front end, api layer, and back end
+
+## 2) Milestones to be completed next week ##
+   -Meet with Dr. Uetz concerning future hosting of database website
+
+## 3) Issues, problems or concerns ##
+   -Need to look into converting current database into sql for proper querying
