@@ -16,7 +16,7 @@ This is a collection of database code used for the new search methods.
 
 ├── txtconverter.py         # Cleans and normalizes raw .txt database dump
 
-├── final_converter.py      # Imports cleaned CSV into SQLite database
+├── database_converter.py      # Imports cleaned CSV into SQLite database
 
 ├── clean_database.csv      # (generated) Tab‑delimited CSV of cleaned records
 
@@ -47,7 +47,7 @@ python3 txtconverter.py <input_raw.txt> <cleaned_output.txt>
 Example:
 python3 txtconverter.py raw_reptiles.txt cleaned_reptiles.txt
 
-final_converter.py
+database_converter.py
 
 Purpose:
 Defines helper functions to parse species, synonyms, distribution, and diagnosis data.
