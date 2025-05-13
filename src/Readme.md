@@ -9,6 +9,7 @@ This is a collection of database code used for the new search methods.
 
  Prerequisites:
  Python 3.6 or higher
+ 
  No other external libraries are required, only uses Python standard library
 
  Repository Structure:
